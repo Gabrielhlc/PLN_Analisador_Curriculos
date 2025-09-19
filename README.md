@@ -13,8 +13,8 @@ Este projeto utiliza Processamento de Linguagem Natural (PLN) para analisar e ra
     * Na célula de código apropriada, edite o dicionário `input_rh` com as habilidades, idioma e cargo que você está buscando, com cada valor separados por vírgula.
         ```python
         input_rh = {
-            'habilidades': 'Java,Spring,Docker','Scrum',
-            'idiomas': 'Português','Inglês',
+            'habilidades': 'Java,Spring,Docker,Scrum',
+            'idiomas': 'Português,Inglês',
             'cargo': 'Desenvolvedor de Software Sênior'
         }
         ```
